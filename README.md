@@ -18,7 +18,7 @@ java Main -s 2 -d 25 -p 5
 
 In case you use an ide,
 
-with intelleji for example:
+with IntelliJ for example:
 If you need to pass arguments to your program, you can do it in the configuration of the execution profile. To do so :
 
 Click on "Edit Configurations" in the "Run" menu.
